@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nature rain</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button_send">Say something</string>
+    <string name="default_message">Click button below!</string>
+    <string name="interact_message">You just clicked on the Button!</string>
+</resources>
